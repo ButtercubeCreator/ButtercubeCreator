@@ -3,7 +3,7 @@
 # Buttered Enterprises:
 
 ### Who am I?
-I am a thirteen-year old boy who has interest in programming. Although I may not have real experience, I wish to be professional at this skill. My ethnicity is Vietnamese-American. I take Martial Arts class, learn Spanish, and tend to play video games.
+I am a thirteen-year old boy who has interest in programming. Although I may not have real experience, I wish to be professional at this skill. My ethnicity is Vietnamese-American. I take Martial Arts class, learn Spanish, and tend to play video games. I also produce music and like to create origami.
 
 ### Interests:
  - Rhythm games 
